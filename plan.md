@@ -1,0 +1,7 @@
+- Have a folder for 'data' 
+    - include:
+        - player
+        - boss
+        - shop
+        - rewards
+        - reminders
